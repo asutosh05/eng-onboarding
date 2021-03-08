@@ -2,5 +2,6 @@
 
 ## To run the program
 
-``` npm install
-``` npm start
+``` npm install```
+
+``` npm start ```
